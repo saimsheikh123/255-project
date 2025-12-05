@@ -1,0 +1,50 @@
+feature,importance,category
+DJIA_ret_5d,0.04829490861659111,Market Context
+NDQ_ret_5d,0.046398036386843394,Market Context
+RSL_ret_5d,0.04447636349036328,Market Context
+RSL_ret_20d,0.04200376454711988,Market Context
+RSL_vol_20d,0.039549553173738074,Market Context
+SP500_vol_20d,0.03931760875649995,Market Context
+SP500_ret_20d,0.03858919747966219,Market Context
+DJIA_vol_20d,0.037380466458732296,Market Context
+SP500_ret_5d,0.03622220527666898,Market Context
+NDQ_ret_20d,0.03349340146149921,Market Context
+SP500_ret_1d,0.032919714514367815,Market Context
+DJIA_ret_20d,0.03288246828367587,Market Context
+RSL_ret_1d,0.031075288905909382,Market Context
+DJIA_ret_1d,0.03077840760939755,Market Context
+NDQ_ret_1d,0.030343346838621704,Market Context
+NDQ_vol_20d,0.02772395016842758,Market Context
+n_tokens,0.021608691559772675,Speaker
+fomc_dove,0.020783822066164234,Sentiment
+finbert_score,0.019432896969620205,Sentiment
+fed interest rate,0.01929056855705714,Macro
+Negative,0.019219879326509905,Sentiment
+Positive,0.01877969651827492,Sentiment
+fomc_neutral,0.01835113278276319,Other
+fomc_hawk,0.017400133958095188,Sentiment
+LM_neg_rate,0.017382306785435165,Sentiment
+LM_pos_rate,0.01635225945446649,Sentiment
+LM_net_polarity_per_token,0.015865738175361885,Sentiment
+month,0.015358199370164695,Temporal
+Polarity,0.015323147337530875,Sentiment
+unemployment,0.015167714510240324,Macro
+topic_prob_3,0.014615481810793118,Topics
+year,0.013339002035348118,Temporal
+day_of_week,0.012100818157326656,Temporal
+topic_confidence,0.011916954996248223,Topics
+topic_prob_5,0.011909924486762124,Topics
+topic_prob_2,0.011399547743752871,Topics
+topic_prob_6,0.011343052632915827,Topics
+topic_prob_1,0.01116673144346656,Topics
+topic_prob_14,0.01106216577235677,Topics
+topic_prob_0,0.010956168592401061,Topics
+topic_prob_4,0.010816863959832912,Topics
+topic_prob_15,0.010052432999425204,Topics
+topic_prob_10,0.009325134545865888,Topics
+is_chair,0.0025686582962818403,Speaker
+finbert_label_encoded,0.0015462132169455905,Sentiment
+pre_crisis,0.001263834015014051,Temporal
+is_vice_chair,0.0012503782992291685,Speaker
+post_crisis,0.0010547438764110368,Temporal
+crisis,0.0005470237800477672,Temporal

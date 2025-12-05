@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# VS Code
+.vscode/
+
+# Data files (keep smaller ones, ignore large ones if needed)
+# Uncomment if datasets are too large:
+# data/*.csv
+
+# Models (large binary files)
+# Uncomment if models are too large for GitHub:
+# models/*.pkl
+# models/*.json
+
+# OS
+.DS_Store
+Thumbs.db
